@@ -11,11 +11,19 @@ export default function Our() {
         data-aos-once="true"
       >
         {/* svg */}
-        <div class="custom-shape-divider-bottom-1641775128">
-    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-        <path d="M892.25 114.72L0 0 0 120 1200 120 1200 0 892.25 114.72z" class="shape-fill"></path>
-    </svg>
-</div>
+        <div className="custom-shape-divider-bottom-1641775128">
+          <svg
+            data-name="Layer 1"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 1200 120"
+            preserveAspectRatio="none"
+          >
+            <path
+              d="M892.25 114.72L0 0 0 120 1200 120 1200 0 892.25 114.72z"
+              className="shape-fill"
+            ></path>
+          </svg>
+        </div>
         {/* end svg */}
         <h1 className="tittle text-center t-shadow pt-3 pb-3"> Our Items</h1>
         <div className="card">
@@ -39,10 +47,10 @@ export default function Our() {
         <div className="card">
           <div className="card-body text-justify">
             Our founders, out of love for the environment and a sweet tooth for
-            honey, created Needz Beez. At Needz Beez, We believe in NFTs as an
-            expressive way to provide charitable contributions through utility
-            benefits for the holders. Furthermore, our digital art pieces can
-            develop support networks for charitable contributions and other
+            honey, created Needz Beez. At Needz Beez, We believe in NFTs as
+            being a means to provide charitable contributions by providing
+            utility benefits to the holders. Furthermore, our digital art pieces
+            can develop support networks for charitable contributions and other
             conservatory efforts.
           </div>
         </div>

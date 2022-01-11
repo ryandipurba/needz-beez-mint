@@ -40,6 +40,8 @@ export default function Header() {
             <h1 className="display-3 t-shadow title-nft">Needz Beez</h1>
             <p className="desc">
               A Collection of 8,000 Bee Inspired #NFTS 'Because the WORLD'.
+              Needs to be A Collection of 8,000 Bee Inspired NFTS 'Because the
+              WORLD and the Metaverse Needz Beez'.
             </p>
             <div className="btn-mint mb-3">
               <App />

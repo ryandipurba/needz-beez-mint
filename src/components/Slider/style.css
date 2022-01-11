@@ -13,8 +13,8 @@
 
 .tech-slideshow > div {
   height: 400px;
-  width: 4000px;
-  background: url("../../assets/image/slide3.png");
+  width: 5000px;
+  background: url("../../assets/image/slide2.png");
   position: absolute;
   top: 0;
   left: 0;
@@ -65,11 +65,11 @@
   overflow: hidden;
 }
 .slider .slider-row {
-  width: 2956px;
+  width: 5000px;
   height: 400px;
-  background-image: url("../../assets/image/slide3.png");
-  background-size: 2956px 400px;
-  animation: slide 50s linear infinite;
+  background-image: url("../../assets/image/slide2.png");
+  background-size: 5000px 400px;
+  animation: slide 15s linear infinite;
   margin: 50px 0px;
 }
 
@@ -78,7 +78,7 @@
     background-position-x: 0;
   }
   to {
-    background-position-x: -2956px;
+    background-position-x: -5000px;
   }
 }
 

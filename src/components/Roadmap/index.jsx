@@ -24,7 +24,7 @@ export default function Roadmap() {
                 <div className="timeline-arrow"></div>
                 <h2 className="h5 mb-0">PHASE 1: PRE-LAUNCH</h2>
                 <span className="small text-gray">
-                  <i class="fas fa-clock mr-1 icon"></i>Egg stage
+                  <i className="fas fa-clock mr-1 icon"></i>Egg stage
                 </span>
                 <ul style={{ paddingLeft: "15px", marginTop: "10px" }}>
                   <li>
@@ -43,13 +43,13 @@ export default function Roadmap() {
                 <div className="timeline-arrow"></div>
                 <h2 className="h5 mb-0">PHASE 2: PRE-SALE (Larva Stage)</h2>
                 <span className="small text-gray">
-                  <i class="fas fa-clock mr-1 icon"></i>Day 6
+                  <i className="fas fa-clock mr-1 icon"></i>Day 6
                 </span>
                 <ul style={{ paddingLeft: "15px", marginTop: "10px" }}>
                   <li>
                     <p className="text-small font-weight-bold">
-                      1,000 discord (10 beez)/3,000 discord (10 beez)/4,500
-                      discord (10 beez).
+                      1,000 discord (10 beez)/3,000 discord (10 beez)/4,500 to
+                      5,000 discord (10 beez).
                     </p>
                   </li>
                   <li>
@@ -69,7 +69,7 @@ export default function Roadmap() {
                 <div className="timeline-arrow"></div>
                 <h2 className="h5 mb-0">PHASE 3: LAUNCH 1st Mint (Larva) </h2>
                 <span className="small text-gray">
-                  <i class="fas fa-clock mr-1 icon"></i>Day 10
+                  <i className="fas fa-clock mr-1 icon"></i>Day 10
                 </span>
                 <ul style={{ paddingLeft: "15px", marginTop: "10px" }}>
                   <li>
@@ -100,7 +100,7 @@ export default function Roadmap() {
                 <div className="timeline-arrow"></div>
                 <h2 className="h5 mb-0">PHASE 4: PRE-LAUNCH 2 (Pupa) </h2>
                 <span className="small text-gray">
-                  <i class="fas fa-clock mr-1 icon"></i>Day 14
+                  <i className="fas fa-clock mr-1 icon"></i>Day 14
                 </span>
                 <ul style={{ paddingLeft: "15px", marginTop: "10px" }}>
                   <li>
@@ -131,7 +131,7 @@ export default function Roadmap() {
                 <div className="timeline-arrow"></div>
                 <h2 className="h5 mb-0">PHASE 5: (Mature Pupa) </h2>
                 <span className="small text-gray">
-                  <i class="fas fa-clock mr-1 icon"></i>Day 21
+                  <i className="fas fa-clock mr-1 icon"></i>Day 21
                 </span>
                 <ul style={{ paddingLeft: "15px", marginTop: "10px" }}>
                   <li>
@@ -165,7 +165,7 @@ export default function Roadmap() {
                 <div className="timeline-arrow"></div>
                 <h2 className="h5 mb-0">PHASE 6: (Adult)</h2>
                 <span className="small text-gray">
-                  <i class="fas fa-clock mr-1 icon"></i>Day 21
+                  <i className="fas fa-clock mr-1 icon"></i>Day 21
                 </span>
                 <ul style={{ paddingLeft: "15px", marginTop: "10px" }}>
                   <li>
@@ -195,7 +195,7 @@ export default function Roadmap() {
                   PHASE 7: METAVERSE (Pollination Exploration){" "}
                 </h2>
                 <span className="small text-gray">
-                  <i class="fas fa-clock mr-1 icon"></i>Day 21
+                  <i className="fas fa-clock mr-1 icon"></i>Day 21
                 </span>
                 <ul style={{ paddingLeft: "15px", marginTop: "10px" }}>
                   <li>

@@ -64,6 +64,10 @@ export default function Teams() {
                   <div className="p-4">
                     <h6 className="  ">Pablo Beecaso</h6>
                     <span className="position">Artist/Designer</span>
+                    <p className="desc mt-2">
+                      - Self Employed Artist and Computer Geek
+                      <br />- 2 Years Cyber Security Experience
+                    </p>
                   </div>
                 </div>
               </div>

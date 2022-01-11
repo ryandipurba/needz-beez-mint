@@ -281,9 +281,10 @@ export default function Faq() {
               >
                 <div className="panel-body px-3 mb-4">
                   <p>
-                    You must invite 15 people to the discord, 10 of which stay.
-                  </p>
-                  <p>
+                    You must invite 15 people to the discord, 10 of which stay{" "}
+                    <br />
+                    OR
+                    <br />
                     You must also participate in 1 conservation effort, take a
                     photo to post on social media and Tag needz Beez. These can
                     be 1 of 3 things.

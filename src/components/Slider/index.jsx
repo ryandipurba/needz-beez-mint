@@ -20,9 +20,9 @@ export default function Slider() {
             have threatened the foundation of bee life. In an attempt to save
             their species, the Hive has birthed four rebellious queens who have
             brought with them 2,000 of their most loyal companions to the solana
-            blockchain in an effort to save not only themselves but the planet
-            and the metaverse. Unfortunately, they can’t do it by themselves;
-            they need YOU to help them on their journey because “The Planet and
+            blockchain in an effort to save not only themselves but the World
+            and the Metaverse. Unfortunately, they can’t do it by themselves;
+            they need YOU to help them on their journey because “The World and
             the Metaverse NEEDZ BEEZ”.
           </div>
         </div>
